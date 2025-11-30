@@ -14,16 +14,6 @@ Install the pip packages in requirements.txt
 Ensure that FASTA files are in the data folder, separating the families into different folders
 <br>
 Run organize_dataset.py in order to prepare the dataset
-<br>
-Run question1.py to see visualizations for Question 1
-<br>
-Run question2.py to see visualizations for Question 2
-<br>
-Run question3.py to see visualizations for Question 3
-<br>
-Run question4.py to see visualizations for Question 4
-<br>
-Run question5.py to see visualizations for Question 5
 
 ## Machine Learning
 Open Jupyter Notebook to run the machine learning models
